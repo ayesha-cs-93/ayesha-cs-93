@@ -35,7 +35,7 @@ A responsive podcast streaming platform interface built with HTML, CSS, and Java
 
 ---
 
-### 🧰 Tech I Work With
+ ## 🧰 Tech I Work With
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
