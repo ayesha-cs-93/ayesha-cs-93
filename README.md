@@ -7,6 +7,10 @@
   <a href="mailto:ayesha.farooq.cs93@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <b>✉️ Direct Email: <a href="mailto:ayesha.farooq.cs93@gmail.com">ayesha.farooq.cs93@gmail.com</a></b>
+</p>
+
 ---
 
 ### 🎓 About Me
