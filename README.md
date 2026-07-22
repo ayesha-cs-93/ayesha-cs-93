@@ -55,12 +55,11 @@ A responsive podcast streaming platform interface built with HTML, CSS, and Java
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayesha-cs-93&show_icons=true&theme=default&hide_border=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha-cs-93&layout=compact&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayesha-cs-93&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
 </p>
-
----
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha-cs-93&layout=compact&hide_border=true"/>
+</p>
 ### 🎯 Right Now I'm Working On
 
 - Docker/Postgres containerization for my FlyRank internship (BE-04)
