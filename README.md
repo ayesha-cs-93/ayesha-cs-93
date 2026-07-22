@@ -25,17 +25,13 @@
 
 ### 🚀 Featured Projects
 
-**🧠 [Brain Tumor Classification](https://github.com/ayesha-cs-93/brain-tumor-classification)**
-Random Forest model for tumor classification in Google Colab. Caught and fixed a **data leakage bug** and a **hardcoded confidence value bug** — the kind of issue that looks fine until you actually check it. Used a hybrid clinical-rule + ML confidence approach that holds up under scrutiny.
+**🧠 [Brain Tumor Classification](https://github.com/ayesha-cs-93/brain-tumor-classification)** Random Forest model for tumor classification in Google Colab. Caught and fixed a **data leakage bug** and a **hardcoded confidence value bug** — the kind of issue that looks fine until you actually check it. Used a hybrid clinical-rule + ML confidence approach that holds up under scrutiny.
 
-**🏆 [Student Health Risk Prediction](https://github.com/ayesha-cs-93/student-health-risk-prediction)**
-Kaggle Playground Series S6E7 — built with **LightGBM + feature engineering**, reached ~0.950 on the public leaderboard (top ~20%). Earned a "Code Uploader" badge.
+**🏆 [Student Health Risk Prediction](https://github.com/ayesha-cs-93/student-health-risk-prediction)** Kaggle Playground Series S6E7 — built with **LightGBM + feature engineering**, reached ~0.950 on the public leaderboard (top ~20%). Earned a "Code Uploader" badge.
 
-**⚙️ [Task CRUD API](https://github.com/ayesha-cs-93/task-crud-api)**
-A FastAPI CRUD API built as part of my Backend AI Engineering track at FlyRank — full Git/GitHub workflow, clean endpoint design.
+**⚙️ [Task CRUD API](https://github.com/ayesha-cs-93/task-crud-api)** A FastAPI CRUD API built as part of my Backend AI Engineering track at FlyRank — full Git/GitHub workflow, clean endpoint design.
 
-**🎧 [Podcast Platform UI](https://github.com/ayesha-cs-93/podcast-platform-ui)**
-A responsive podcast streaming platform interface built with HTML, CSS, and JavaScript.
+**🎧 [Podcast Platform UI](https://github.com/ayesha-cs-93/podcast-platform-ui)** A responsive podcast streaming platform interface built with HTML, CSS, and JavaScript.
 
 ---
 
@@ -54,12 +50,16 @@ A responsive podcast streaming platform interface built with HTML, CSS, and Java
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayesha-cs-93&show_icons=true&hide_border=true&include_all_commits=true&count_private=true"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayesha-cs-93&show_icons=true&hide_border=true&include_all_commits=true"/>
 </p>
-<p align="left">
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha-cs-93&layout=compact&hide_border=true"/>
 </p>
+
+---
+
 ### 🎯 Right Now I'm Working On
 
 - Docker/Postgres containerization for my FlyRank internship (BE-04)
